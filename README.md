@@ -1,5 +1,7 @@
 # Hello world docker action
 
+[![.github/workflows/main.yml](https://github.com/rajgupt/hello-world-docker-action/actions/workflows/main.yml/badge.svg)](https://github.com/rajgupt/hello-world-docker-action/actions/workflows/main.yml)
+
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
 
 ## Inputs
